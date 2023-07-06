@@ -161,4 +161,4 @@ cython_debug/
 
 bin/
 lib/
-lib64/
+lib64
